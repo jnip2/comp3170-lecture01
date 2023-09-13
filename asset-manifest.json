@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/comp3170-lecture01/static/css/main.5dab15a6.css",
+    "main.js": "/comp3170-lecture01/static/js/main.e41c7bcc.js",
+    "index.html": "/comp3170-lecture01/index.html",
+    "main.5dab15a6.css.map": "/comp3170-lecture01/static/css/main.5dab15a6.css.map",
+    "main.e41c7bcc.js.map": "/comp3170-lecture01/static/js/main.e41c7bcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dab15a6.css",
+    "static/js/main.e41c7bcc.js"
+  ]
+}
